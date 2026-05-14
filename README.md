@@ -7,10 +7,10 @@ Analista de datos con enfoque en convertir datos en decisiones. Trabajo con SQL,
 ## Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
@@ -49,4 +49,5 @@ Exploración de 1.470 registros de empleados para identificar factores de rotaci
 
 ## Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipecorzo-blue)](https://www.linkedin.com/in/felipecorzo) [![Gmail](https://img.shields.io/badge/Gmail-felipecorzo2006%40gmail.com-red)](mailto:felipecorzo2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-felipecorzo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipecorzo)
+[![Gmail](https://img.shields.io/badge/Gmail-felipecorzo2006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipecorzo2006@gmail.com)
