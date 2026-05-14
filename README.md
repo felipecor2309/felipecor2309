@@ -6,9 +6,6 @@ Analista de datos con enfoque en convertir datos en decisiones. Trabajo con SQL,
 
 ## Herramientas
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue) ![Python](https://img.shields.io/badge/Python-pandas-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Excel](https://img.shields.io/badge/Excel-Análisis-green)
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
